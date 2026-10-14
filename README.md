@@ -1,16 +1,39 @@
-## Hi there 👋
+# Привет! 👋
 
-<!--
-**Krovenmor/Krovenmor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я бэкенд-разработчик. Специализируюсь на проектировании микросервисной архитектуры, распределённых систем и асинхронной обработке данных на **Go**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Достижения
+
+- **1-е место на хакатоне Meditron:**
+  * **[med-it-ron-mvp-project-third-opinion-2026](https://github.com/Krovenmor/med-it-ron-mvp-project-third-opinion-2026)** — разработка веб-сервиса в команде для повышения конверсии пациентов.
+  * *Стек:* Go, PostgreSQL, Python.
+  * *Мой вклад:* полностью спроектировал и реализовал бэкенд (за исключением AI-сервиса).
+
+---
+
+### 🛠 Ключевые проекты
+
+- **[golang-messenger-microservices](https://github.com/Krovenmor/golang-messenger-microservices)**  
+  Полноценный сервис обмена сообщениями на микросервисной архитектуре.  
+  * Спроектировал и реализовал систему с нуля.
+  * *Стек:* Go, PostgreSQL, Redis (Pub/Sub, Streams, Cache).
+
+- **[golang-rogue-game](https://github.com/Krovenmor/golang-rogue-game)**  
+  Командная разработка консольной rogue-like игры на Go (2D / псевдо-3D стереоскопический рендеринг).
+  * Реализовал инструментарий работы с картой, ключевую игровую логику (передвижение, подбор предметов), визуализацию и стереоскопический режим.  
+  * *Стек:* Go, goncurses.
+
+- **[cpp-game-engine](https://github.com/Krovenmor/cpp-game-engine)**  
+  2D-движок на C++, спроектированный как независимая библиотека с автоматическим управлением жизненным циклом и стартапом.
+  * Реализовал компонентную систему сущностей, базовый UI, редактор сцены и основные подсистемы (хранилище обьектов, коллизии, ввод, система анимаций и т.д.).
+  * *Стек:* C++, SFML, ImGui.
+
+---
+
+### 💻 Основной стек технологий
+
+- **Языки:** Go, SQL, C++
+- **Базы данных & брокеры:** PostgreSQL, Redis (Streams, Pub/Sub)  
+- **Инфраструктура & инструменты:** Docker, Docker Compose, Git, Linux, Make
